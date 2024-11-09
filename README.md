@@ -21,13 +21,13 @@
     <!------------ Languages ----------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,html" />
+        <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,python,java,html" />
       </a>
     </p>
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,selenium,jenkins" />
+        <img src="https://skillicons.dev/icons?i=react,express,flask,angular" />
       </a>
     </p>
     <!-------------------- Styling -------------------------->
