@@ -30,22 +30,16 @@
         <img src="https://skillicons.dev/icons?i=react,express,flask,angular" />
       </a>
     </p>
-    <!-------------------- Styling -------------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,tailwind,materialui,styledcomponents" />
-      </a>
-    </p>
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,planetscale,vercel,netlify,heroku" />
+        <img src="https://skillicons.dev/icons?i=mongodb,netlify,heroku" />
       </a>
     </p>
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma,androidstudio,idea,unreal" />
+        <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma,androidstudio" />
       </a>
     </p>
   </div>
