@@ -1,6 +1,6 @@
 <div>
   
-# Araf A Alam
+# Gurjap Hajra
 
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=28&duration=750&pause=1000&color=F30043&background=FF46D600&vCenter=true&width=600&height=40&lines=Lifelong+Learner;Aspiring+Software+Engineer;Aspiring UX/UI Designer" alt="Typing SVG" /></a>
