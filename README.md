@@ -75,13 +75,13 @@
   <!-- Socials -->
   <h2 align="center">Connect with Me</h2>
   <p align="center">
-    <a href="https://linkedin.com/in/araf821">
+    <a href="https://www.linkedin.com/in/gurjap-singh-hajra/">
       <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>&nbsp;
-    <a href="https://github.com/araf821">
+    <a href="https://github.com/GurjapHajra">
       <img src="https://skillicons.dev/icons?i=github"/>
     </a>&nbsp;
-    <a href="https://www.instagram.com/triple._.a/">
+    <a href="https://www.instagram.com/gurjapsinghhajra/">
       <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
   </p>
